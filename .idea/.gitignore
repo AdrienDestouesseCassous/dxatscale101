@@ -1,0 +1,21 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+IlluminatedCloud
+*.iml
+
+.idea/**/workspace.xml
+.idea/**/git_toolbox_prj.xml
+.idea/**/illuminatedCloud.xml
+.idea/**/misc.xml
+.idea/**/modules.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+.idea/runConfigurations.xml
+
+.sfdx/
+.localdevserver/
+.vscode
